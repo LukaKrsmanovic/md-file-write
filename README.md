@@ -1,6 +1,9 @@
 # Immobilium Project Setup
 
  Clone CROWDESTATE repository and checkout to branch IMMOBILIUM branch.
+ ```
+ git checkout immobilium
+ ```
  
 ## Postgres and pgAdmin 4 setup
 
