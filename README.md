@@ -72,7 +72,17 @@ After installing postgres:
     ```
 
 
+```
 
+
+
+
+
+
+
+
+
+```
 
 
 
@@ -80,7 +90,17 @@ After installing postgres:
 
 
 
+```
 
+
+
+
+
+
+
+
+
+```
 
 
 
