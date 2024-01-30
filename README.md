@@ -71,7 +71,7 @@ Some of the frontend enviroment variables explained:
 | VARIABLE                   	  | DESCRIPTION                                                  	  	    |
 |---------------------------------|---------------------------------------------------------------------------------|
 | PORT                       	  | local port for frontend 'localhost:3065'                              	    |
-| NODE_ENV                   	  | environment variable in React used to specify the current environment 	    |
+| NODE_ENV                   	  | variable in React used to specify the current environment 	    |
 | REACT_APP_API_URL          	  | immobilium server (backend) url                             	  	    |
 | REACT_APP_GOOGLE_API_KEY   	  | api key for google (maps)                                    	  	    |
 | REACT_APP_MAP_LAT          	  | env variable for default map latitude                         	  	    |
@@ -87,7 +87,7 @@ Some of the server enviroment variables explained:
 | VARIABLE                | DESCRIPTION                                              		  |
 |-------------------------|-----------------------------------------------------------------------|
 | PORT                    | local port for frontend 'localhost:5565'                		  |
-| NODE_ENV                | variable in React used to specify the current environment 		  |
+| NODE_ENV                | variable used to specify the current environment 		  |
 | WEBSITE_URL             | frontend URL                                             		  |
 | SERVER_URL              | server (backend) URL                                    		  |
 | DB_...                  | database setup variables (e.g. DB_NAME)                		  |
