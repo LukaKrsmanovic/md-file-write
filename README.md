@@ -53,6 +53,8 @@ After installing postgres:
 
 ## Run Project
 
+Run project with node version 16 (e.g. v16.13.2)
+
 1. Start Server
     ```
     npm run start:server
@@ -62,6 +64,13 @@ After installing postgres:
     npm run start:frontend
     ```
 
+
+## Default User
+
+When server is first run, the default admin user is created. <br />
+Default admin user credentials are:
+- email: admin@immobilium.io
+- password: 123456
 
 
 ## Frontend .env variables
