@@ -7,7 +7,7 @@
  
 ## Postgres and pgAdmin 4 setup
 
-1. Install postgresql-14 on your machine
+1. Install postgresql on your machine
  
 2. Install **pgAdmin 4** for database setup and then:
     - open the app and create server `immobilium-server`
